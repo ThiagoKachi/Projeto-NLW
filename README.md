@@ -9,20 +9,12 @@ Para executar o projeto, será necessário instalar o seguinte programa:
 
 ### Construção
 
-Para construir o projeto com o NodeJs, executar os comandos abaixo:
+Para construir o projeto com o NodeJs, executar o comando abaixo:
 
 ```shell
-npm install express
+npm install
 ```
-```shell
-npm install nodemon
-```
-```shell
-npm install nunjucks
-```
-```shell
-npm install sqlite3
-```
+
 <h3 align="center"> Testes </h3>
   Para rodar os testes, utilize o comando abaixo:
 
