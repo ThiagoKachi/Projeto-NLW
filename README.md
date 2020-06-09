@@ -9,7 +9,7 @@ Para executar o projeto, será necessário instalar o seguinte programa:
 
 ### Construção
 
-Para construir o projeto com o NodeJs, executar o comando abaixo:
+Para instalar as dependência do projeto com o NodeJs, executar o comando abaixo:
 
 ```shell
 npm install
